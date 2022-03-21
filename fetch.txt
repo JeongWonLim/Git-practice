@@ -1,2 +1,4 @@
 fetch practice
 수정
+prac2
+master에서 수정
