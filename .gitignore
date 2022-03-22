@@ -1,3 +1,2 @@
-!ignore/
-ignore/*
-!ignore/ignore2 
+ignore1/*
+!ignore1/ignore2 
